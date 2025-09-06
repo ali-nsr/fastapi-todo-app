@@ -1,6 +1,4 @@
-# 1
-    cd app
-# 2
+# 1: Create database
     alembic upgrade heades
-# 3
+# 2: Start project
     fastapi dev
